@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ExamClient/ExamClient.csproj" Id="7922071e-e490-48ec-9b50-f65dae3776a5" />
+  <Project Path="ExamServer/ExamServer.csproj" Id="b4f9a393-63d9-43e2-84be-8c83b52a010d" />
+</Solution>
